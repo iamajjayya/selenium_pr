@@ -17,6 +17,11 @@ time.sleep() -> performance of the script is very poor
 2, explict wait
    -> Waits for a specific condition for a specific element.
   -> explict wait works in condition
+
+  Ad:
+    More effectively work
+    feel some difficulty
+
 '''
 import time
 from selenium import  webdriver
